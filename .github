@@ -1,0 +1,4 @@
+#frontend team owns all the react components
+src/components/ * @frontend-team
+#Core maintainers own main brach
+* @core-maintainers
